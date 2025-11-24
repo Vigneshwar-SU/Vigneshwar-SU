@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vigneshwar S U!
-### I'm a Frontend Developer | Passionate about creating intuitive web experiences 🚀
+### I'm a Full stack Developer | Passionate about creating intuitive web experiences 🚀
 
 - 🔭 I’m currently working on **enhancing my skills in React and Django**
 - 🌱 I’m learning **advanced React.js and backend integration**
