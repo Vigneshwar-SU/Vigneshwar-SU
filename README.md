@@ -1,45 +1,64 @@
-# 👋 Hi, I'm Vigneshwar S U!
-### I'm a Full stack Developer | Passionate about creating intuitive web experiences 🚀
+# Hi 👋, I'm Vigneshwar S U
 
-- 🔭 I’m currently working on **enhancing my skills in React and Django**
-- 🌱 I’m learning **advanced React.js and backend integration**
-- 👯 I’m looking to collaborate on **web development projects** and **open-source contributions**
-- 💬 Ask me about **Frontend development, Django, and building responsive websites**
-- 📫 How to reach me: **[vigneshwar@example.com](vigneshwar.1664@gmail.com)**
+### 💻 Full Stack Developer
+
+I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world solutions while continuously learning new technologies and improving my development skills.
 
 ---
 
-### 🛠 Tech Stack & Tools:
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Django, Python  
-- **Languages:** Java, Python  
-- **Tools:** Git, VS Code, Figma  
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
-### 🔗 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwar-s-u-1a8467247/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Vigneshwar-SU)
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-critical?style=flat])](https://vigneshwar-su.vercel.app/project)
+## 🌱 Currently Learning
+
+* ⚛️ Advanced React
+* 🔗 REST APIs
+* 🐍 Backend Development with Django
+* 🧠 Data Structures & Algorithms
 
 ---
 
-### 📊 GitHub Stats:
-![Vigneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vigneshwar-SU&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vigneshwar-SU&layout=compact&theme=dark)
+## 📫 Connect With Me
+
+<p>
+<a href="mailto:vigneshwar.1664@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vigneshwar-s-u-1a8467247/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://vigneshwar-su.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-### 🚀 Latest Projects:
-- 🛠 **[Personal Portfolio Website](https://your-portfolio-link.com)**: A modern and responsive portfolio to showcase my skills and projects.  
-- 📈 **[To-Do App](https://github.com/YourGitHubUsername/todo-app)**: A task management app built using Django and JavaScript.
-
----
-
-### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Vigneshwar-SU&theme=darkhub&no-frame=true&margin-w=15)
-
----
-
-### 💡 Fun Fact:
-I believe **"Great design is born of simplicity and clarity."**
+⭐ *"Code. Learn. Build. Repeat."*
