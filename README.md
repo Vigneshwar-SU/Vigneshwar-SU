@@ -20,7 +20,7 @@
 ### 🔗 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshwar-s-u-1a8467247/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Vigneshwar-SU)
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-critical?style=flat](https://vigneshwar-su.vercel.app/project))](https://your-portfolio-link.com)
+[![Portfolio]([https://img.shields.io/badge/-Portfolio-critical?style=flat])](https://vigneshwar-su.vercel.app/project)
 
 ---
 
